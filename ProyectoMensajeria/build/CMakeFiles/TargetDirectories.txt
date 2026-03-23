@@ -1,0 +1,3 @@
+/home/emiliano/ProyectoMensajeria/build/CMakeFiles/programa_mensajeria.dir
+/home/emiliano/ProyectoMensajeria/build/CMakeFiles/edit_cache.dir
+/home/emiliano/ProyectoMensajeria/build/CMakeFiles/rebuild_cache.dir
